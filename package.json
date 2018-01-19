@@ -1,0 +1,22 @@
+{
+  "name": "om2m-rest",
+  "version": "0.0.1",
+  "description": "oneM2M REST api.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterEB/om2m-rest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterEB/om2m-rest/issues"
+  },
+  "homepage": "https://github.com/PeterEB/om2m-rest#readme"
+}
