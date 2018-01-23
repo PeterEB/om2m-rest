@@ -1,6 +1,6 @@
 {
   "name": "om2m-rest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "oneM2M REST api.",
   "main": "index.js",
   "directories": {
