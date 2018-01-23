@@ -45,7 +45,7 @@ om2m.createCont('MY_SENSOR', 'DATA', 10, function (err, msg) {
 });
 
 // create your content instance 
-om2m.createApp('MY_SENSOR', 'DATA', temperature, { sensorValue: 25.6 }, function (err, msg) {
+om2m.createDataInst('MY_SENSOR', 'DATA', temperature, { sensorValue: 25.6 }, function (err, msg) {
     console.log(msg);
 });
 ```
